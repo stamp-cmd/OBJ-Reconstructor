@@ -1,12 +1,12 @@
 # V2Reconstructor
 
-Extract (most of) model data from [Prototracer](https://github.com/coelacant1/ProtoTracer)'s Object3D files (file.h) to .obj file.
+Extract (most of) model data from [Prototracer](https://github.com/coelacant1/ProtoTracer)'s Object3D files (.h file) to .obj file.
 
-The file will not be the same as the original obj file (unless it is really simple).
+The output file will not be the same as the original obj file (unless it is really simple).
 
 ## Sample
 
-Sample contains file from [ProtoTracerOBJConverter](https://github.com/coelacant1/ProtoTracerOBJConverter)
+Sample model is from [ProtoTracerOBJConverter](https://github.com/coelacant1/ProtoTracerOBJConverter)
 
 ## Usage
 
@@ -22,7 +22,7 @@ Model is unrecognizable
 - DVD.obj
 
 ### Bad
-Contains imperfection/holes throughout the model, can be fixed by filling or remeshing.
+Contains imperfections/holes throughout the model, can be fixed by filling or remeshing.
 
 - Artisans.h
 - Proto.h
