@@ -24,7 +24,7 @@ Model is unrecognizable
 ### Bad
 Contains imperfection/holes throughout the model, can be fixed by filling or remeshing.
 
-- Artisans.hhttps://github.com/coelacant1/ProtoTracerOBJConverter
+- Artisans.h
 - Proto.h
 
 ### Good
